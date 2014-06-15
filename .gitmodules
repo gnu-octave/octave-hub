@@ -13,3 +13,6 @@
 [submodule "sockets-enh"]
 	path = sockets-enh
 	url = git://github.com/octave-de/octave-sockets-enh
+[submodule "socket-enh"]
+	path = socket-enh
+	url = git://github.com/octave-de/octave-sockets-enh
